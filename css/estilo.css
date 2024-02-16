@@ -1,0 +1,43 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background:linear-gradient(-90deg, rgb(13, 95, 2),rgba(255, 17, 0, 0.808),rgba(1, 75, 1, 0.582));
+    
+}
+
+h1{
+    text-align: center;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+ul{
+    list-style: none;    
+    background-color: rgba(82, 238, 10, 0.233);
+    line-height: 40px;
+    border-radius: 20px;
+    text-align: center;
+}
+
+ul li{
+    padding: 10px;
+    display: inline;
+}
+
+ul li a{
+    color: white;
+    text-decoration: none;
+}
+
+ul li a:hover{
+    
+    
+}
+
+ul li:hover{
+    background-color: rgb(39, 37, 37);
+    border-radius: 10px;
+}
+
+
+
+
