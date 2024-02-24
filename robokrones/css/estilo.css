@@ -26,3 +26,18 @@ ul{
     list-style: none;
     line-height: 2;
 }
+
+h2{
+    color: white;
+    margin-left: 30px;
+    background-color: greenyellow;
+    width: 120px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+    border-bottom-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+.linha{
+    border: 1px white solid;
+}
